@@ -1,0 +1,126 @@
+body {
+    background-color: hsl(233, 47%, 7%);
+    font-family: "Inter", sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+/*Main-Section*/
+#main-section {
+    padding: 64px 16px;
+}
+
+.main-container {
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 10px;
+    padding: 0;
+}
+
+/* Header & Stats*/
+.main-header, .stat-header {
+    color: hsl(0, 0%, 100%);
+    font-weight: 700;
+}
+
+.main-header-accent {
+    color: hsl(277, 64%, 61%)
+}
+
+.info-container {
+    padding: 2.5% 5%;
+}
+
+.main-paragraph {
+    color: hsla(0, 0%, 100%, 0.75);
+    line-height: 2;
+}
+
+.stat-paragraph {
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
+.stats-container {
+    padding-left: 0;
+}
+
+/* Image */
+.image-header-desktop, .image-header-mobile {
+    filter: opacity(0.65) contrast(150%);
+    height: auto;
+    width: 100%;
+}
+
+.image-overlay {
+    background-color: hsl(277, 64%, 61%);
+}
+
+/*Attribution Section*/
+.attribution {
+    color: grey;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+/*Media Queries */
+@media(min-width: 1200px) {
+    .main-paragraph {
+        margin: 30px 0 125px;
+    }
+}
+
+@media(min-width: 992px) {
+    #main-section {
+        padding: 128px 16px;
+    }
+
+
+ .main-header {
+    margin-top: 0;
+ }
+
+ .image-header-mobile {
+    display: none;
+ }
+
+ .image-header-desktop {
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+ }
+
+ .image-overlay {
+    display: block;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+ }
+}
+
+@media(max-width: 992px) {
+    .main-paragraph {
+        margin: 16px 0;
+    }
+
+    .stat-item {
+        margin: 10px 0;
+    }
+
+    .image-header-desktop {
+        display: none;
+    }
+
+    .image-header-mobile {
+        display: block;
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+    }
+
+    .image-overlay {
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+    }
+
+    .attribution {
+        position: static;
+    }
+}
