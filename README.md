@@ -55,7 +55,7 @@ It is really true the saying that if you want to be good at coding you need to a
 -[Github Tutorial](https://www.youtube.com/watch?v=wrb7Gge9yoE&t=235s) - This helped me how to upload repositories in Github.
 
 ## Author
-- Frontend Mentor - [@BrnjZP](https://www.frontendmentor.io/profile/BenjZP)
+- Frontend Mentor - [BenjZP](https://www.frontendmentor.io/profile/BenjZP)
 - Twitter - [@url_benjjj](https://www.twitter.com/@url_benjjj)
 
 
