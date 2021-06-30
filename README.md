@@ -56,7 +56,7 @@ It is really true the saying that if you want to be good at coding you need to a
 
 ## Author
 - Frontend Mentor - [BenjZP](https://www.frontendmentor.io/profile/BenjZP)
-- Twitter - [@url_benjjj](https://www.twitter.com/@url_benjjj)
+- Twitter - [@url_benjjj](https://twitter.com/url_benjjj?s=09)
 
 
 ## Acknowledgments
