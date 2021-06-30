@@ -52,7 +52,7 @@ It is really true the saying that if you want to be good at coding you need to a
 
 - [FreeCodeCamp Bootstrap](https://www.freecodecamp.org/news/tag/bootstrap-4/) - This helped me on how to put BootStrap on the HTML and how to use bootstrap classes.
 - [MDN Web Docs CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - This helped me in the CSS.
--[Github Tutorial](https://www.youtube.com/watch?v=wrb7Gge9yoE&t=235s) - This helped me how to upload repositories in Github.
+- [Github Tutorial](https://www.youtube.com/watch?v=wrb7Gge9yoE&t=235s) - This helped me how to upload repositories in Github.
 
 ## Author
 - Frontend Mentor - [BenjZP](https://www.frontendmentor.io/profile/BenjZP)
