@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://benjzp.github.io/Stats-Preview-Card](https://benjzp.github.io/Stats-Preview-Card/)
+- Live URL: [https://benjzp.github.io/Stats-Preview-Card](https://benjzp.github.io/Stats-Preview-Card/)
 
 ## My process
 
