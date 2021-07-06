@@ -32,6 +32,7 @@ Users should be able to:
 ### Links
 
 - Live URL: [https://benjzp.github.io/Stats-Preview-Card](https://benjzp.github.io/Stats-Preview-Card/)
+- Solution URL: [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/html-css-and-bootstrap-S-_0BN_Sw)
 
 ## My process
 
